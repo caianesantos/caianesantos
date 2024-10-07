@@ -19,6 +19,7 @@
   <img width="12" />
 
 <h4>Development</h4>
+<div style="display: inline-block; vertical-align: top; margin-right: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -29,23 +30,17 @@
 <h4>Tools and Technologies</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
-
-
-<div align= right>
-  <div style="margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=caianesantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="143.9" alt="stats graph" />
   </div>
-  <div align= right>
-  <div style= 'margin-right: 20px;'>
+
+<div style="display: flex; align-items: flex-start;">
+  <div style="margin-right: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=caianesantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  </div>
+  <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caianesantos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
   </div>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/caianesantos/caianesantos/output/snake.svg" alt="Snake animation" />
 
 ###
 
