@@ -1,34 +1,65 @@
-<h2>Hello, world 👋🏽! Welcome to my profile Github 😊!</h2>
+## Hello, world 👋🏽! Welcome to my profile Github 😊!
 
 
 
-<h3> 👩🏽‍💻 About me:</h3>
+### 👩🏽‍💻 About me:
 
 ##
 
-- I am a full stack development student;
+- I am a full stack development student at Infinity School;
 - I also work in the areas of design, photography and logistics.
 - How to reach me: <a href="https://whatsapp.com/+5571987129796" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%231ED760.svg?&style=flat-square&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
 
 ###
 
-<h3> 🛠 Skills: </h3>
+### 🛠 Skills:
 
-<h4>Languages</h4>
+#### Languages
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
 
-<h4>Development</h4>
+#### Development
 <div style="display: inline-block; vertical-align: top; margin-right: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo" #gh-light-mode-only />
+  <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo" #gh-dark-mode-only />
   <img width="12" />
 
-<h4>Tools and Technologies</h4>
+#### Tools and Technologies
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
+  <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" #gh-dark-mode-only />
+      <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" #gh-light-mode-only />
+      <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="notion logo" #gh-light-mode-only />
+    <img width="12" />
+        <img src="https://img.icons8.com/?size=100&id=6qjqdpPur5LN&format=png&color=D1D1D7" height="30" alt="notion logo" #gh-dark-mode-only />
+    <img width="12" />
+    <img src="https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=D1D1D7" height="30" alt="ChatGpt logo" #gh-dark-mode-only />
+    <img width="12" />
+        <img src="https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=000000" height="30" alt="ChatGpt logo" #gh-light-mode-only />
+    <img width="12" />
+  </div>
+  
+#### Studying
+  <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" height="30" alt="powerbi logo"  />
+  <img width="12" />
+    <img src="https://img.icons8.com/?size=100&id=XKFRdQOs24QU&format=png&color=000000" height="30" alt="framer logo" #gh-light-mode-only />
+    <img width="12" />
+        <img src="https://img.icons8.com/?size=100&id=XKFRdQOs24QU&format=png&color=D1D1D7" height="30" alt="framer logo" #gh-dark-mode-only />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   </div>
 
@@ -49,7 +80,7 @@
 <a href="https://www.instagram.com/kodara.raw" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.behance.net/caianesantos1" target="_blank"><img src="https://img.shields.io/badge/behance-%231877F2.svg?&style=flat-square&logo=behance&logoColor=white" alt="Behance"></a>
 <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSDZPQrxgmvXCwZfZPHBJhSsHgwRcvxJfSFrvQZFhNKHrJNKFQZlFnQhshMtpScghLCDVzlc" target="_blank"><img src="https://img.shields.io/badge/gmail-%231ED760.svg?&style=flat-square&logo=gmail&logoColor=white&color=red" alt="Gmail"></a>
-<a href="https://open.spotify.com/user/21zq3scahpddozbonmwbsoi6a?si=yEuU0XiDSRarVX2smUCfzA" target="_blank"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://open.spotify.com/user/21zq3scahpddozbonmwbsoi6a?si=yEuU0XiDSRarVX2smUCfzA" target="_blank"><img 
 </div>
 
 
