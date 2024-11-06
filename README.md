@@ -1,4 +1,4 @@
-## Hello, world 👋🏽! Welcome to my profile Github 😊!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2619FF&background=FFFFFF00&width=435&lines=Hello!+Welcome+to+my+profile+Github!;My+name+is+Caiane;I'm+22+years+old;I'm+from+Salvador%2C+Bahia%2C+Brazil)](https://git.io/typing-svg)
 
 
 
@@ -24,40 +24,29 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo" #gh-light-mode-only />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
   <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo" #gh-dark-mode-only />
-  <img width="12" />
-
+  
+  
 #### Tools and Technologies
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" #gh-dark-mode-only />
-      <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" #gh-light-mode-only />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
       <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="notion logo" #gh-light-mode-only />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="notion logo"  />
     <img width="12" />
-        <img src="https://img.icons8.com/?size=100&id=6qjqdpPur5LN&format=png&color=D1D1D7" height="30" alt="notion logo" #gh-dark-mode-only />
-    <img width="12" />
-    <img src="https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=D1D1D7" height="30" alt="ChatGpt logo" #gh-dark-mode-only />
-    <img width="12" />
-        <img src="https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=000000" height="30" alt="ChatGpt logo" #gh-light-mode-only />
+        <img src="https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=`000000`; color=`fffff`" height="30" alt="ChatGpt logo"  />
     <img width="12" />
   </div>
   
 #### Studying
   <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" height="30" alt="powerbi logo"  />
   <img width="12" />
-    <img src="https://img.icons8.com/?size=100&id=XKFRdQOs24QU&format=png&color=000000" height="30" alt="framer logo" #gh-light-mode-only />
-    <img width="12" />
-        <img src="https://img.icons8.com/?size=100&id=XKFRdQOs24QU&format=png&color=D1D1D7" height="30" alt="framer logo" #gh-dark-mode-only />
+    <img src="https://img.icons8.com/?size=100&id=XKFRdQOs24QU&format=png&color=000000" height="30" alt="framer logo" />
     <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
