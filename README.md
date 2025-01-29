@@ -20,6 +20,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-1E2A3A?style=for-the-badge&logo=Framer&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=ChatGPT&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
@@ -38,7 +39,7 @@
 ##
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=caianesantos&theme=dracula&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=480" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=caianesantos&theme=dracula&card_width=480" alt="GitHub Streak" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caianesantos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="44.83%" />
 </p>
 
