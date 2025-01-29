@@ -2,13 +2,15 @@
 
 
 
-### 👨🏿‍💻 About me:
+### 👩🏽‍💻 About me:
 
 ##
 
-- I am a full stack development student at Infinity School;
-- I am a Software Engineering student at UCSAL;
-- I also work in the areas of design, photography and logistics.
+- I am a Full Stack Development student at Infinity School;
+- Software Engineering student at UCSAL;
+- I also work in the areas of design, photography and logistics;
+- Passionate about music, games and image editing.
+  
 ##
 
 ### 🛠 Skills:
@@ -25,6 +27,7 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=ChatGPT&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
 
 
 
@@ -34,6 +37,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-1E2A3A?style=for-the-badge&logo=Framer&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+
 
 
 ##
