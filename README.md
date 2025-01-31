@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2619FF&background=FFFFFF00&width=435&lines=Hello,+world!;Welcome+to+my+profile+Github!;My+name+is+Caiane;I'm+22+years+old;I'm+from+Salvador%2C+Bahia%2C+Brazil)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=120&section=header"/>
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3776AB&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+world!;My+name+is+Caiane;I'm+from+Brazil;I'm+22+years+old;I'm+graduating+Software+Engineering;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
 ### 👩🏽‍💻 About me:
 
@@ -61,3 +61,5 @@
 <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSDZPQrxgmvXCwZfZPHBJhSsHgwRcvxJfSFrvQZFhNKHrJNKFQZlFnQhshMtpScghLCDVzlc" target="_blank"><img src="https://img.shields.io/badge/gmail-%231ED760.svg?&style=flat-square&logo=gmail&logoColor=white&color=red" alt="Gmail"></a>
 <a href="https://www.behance.net/caianesantos1" target="_blank"><img src="https://img.shields.io/badge/behance-%231877F2.svg?&style=flat-square&logo=behance&logoColor=white" alt="Behance"></a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=120&section=footer"/>
