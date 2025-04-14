@@ -29,6 +29,7 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=ChatGPT&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-2e5d7f?style=for-the-badge&logo=overleaf&logoColor=white)
 
 
 
@@ -40,7 +41,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-1E2A3A?style=for-the-badge&logo=Framer&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0078D7?style=for-the-badge&logo=opencv&logoColor=white)
-![Overleaf](https://img.shields.io/badge/Overleaf-2e5d7f?style=for-the-badge&logo=overleaf&logoColor=white)
+![Java](https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=java&logoColor=white)
 
 
 
