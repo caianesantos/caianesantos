@@ -42,6 +42,7 @@
 ![Framer](https://img.shields.io/badge/Framer-1E2A3A?style=for-the-badge&logo=Framer&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0078D7?style=for-the-badge&logo=opencv&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=java&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-e47911?style=for-the-badge&logo=java&logoColor=white)
 
 
 
